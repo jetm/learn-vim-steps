@@ -4,4 +4,4 @@ Presentation showing Vim magic
 
 ## TODO
 
-[ ] Create index
+- [ ] Create index
