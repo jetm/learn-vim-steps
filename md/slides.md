@@ -1,6 +1,8 @@
 # Learn Vim: Step by Step
 
-### A reveal.js Docker Base Image with ONBUILD
+## Put Subtitle Here
+
+### Javier Tiá / October 13, 2015
 
 ---
 
