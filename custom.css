@@ -25,3 +25,7 @@
   font-weight: 700;
   src: url('../fonts/Lato/Lato-BoldItalic.ttf');
 }
+
+.reveal h1, .reveal h2, .reveal h3 {
+  text-transform: none;
+}
