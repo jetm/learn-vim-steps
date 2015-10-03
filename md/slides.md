@@ -1,4 +1,4 @@
-# Docker + reveal.js
+# Learn Vim: Step by Step
 
 ### A reveal.js Docker Base Image with ONBUILD
 
