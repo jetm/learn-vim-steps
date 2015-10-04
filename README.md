@@ -1,6 +1,6 @@
 # vim-presentation
 
-Presentation showing Vim magic
+Presentation to teach Vim in a fast way.
 
 Build:
 
