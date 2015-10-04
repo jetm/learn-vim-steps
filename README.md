@@ -14,6 +14,5 @@ Run:
 $ docker run --rm -v "$(pwd)/md:/revealjs/md" -p 8001:8000 vim-slidesshow
 ```
 
-## TODO
+Presentation made with https://github.com/hakimel/reveal.js.
 
-- [ ] Create index
