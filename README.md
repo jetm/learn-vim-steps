@@ -1,4 +1,4 @@
-# vim-presentation
+# Learn Vim Steps by Steps
 
 Presentation to teach Vim in a fast way.
 
