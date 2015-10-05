@@ -2,6 +2,18 @@ FROM ubuntu:14.04
 
 MAINTAINER Javier Tia <javier.tia@gmail.com>
 
+# Set HP corporate proxy
+ENV HTTP_PROXY=http://web-proxy.cr.hpecorp.net:8080 \
+    HTTPS_PROXY=http://web-proxy.cr.hpecorp.net:8080 \
+    FTP_PROXY=http://web-proxy.cr.hpecorp.net:8080 \
+    SOCKS_PROXY=http://web-proxy.cr.hpecorp.net:8080 \
+    NO_PROXY=localhost,127.0.0.1,*.hpe.com,*.hpecorp.net,*.hp.com,*.hpqcorp.net,*.cpqcorp.net \
+    http_proxy=http://web-proxy.cr.hpecorp.net:8080 \
+    https_proxy=http://web-proxy.cr.hpecorp.net:8080 \
+    ftp_proxy=http://web-proxy.cr.hpecorp.net:8080 \
+    socks_proxy=http://web-proxy.cr.hpecorp.net:8080 \
+    no_proxy=localhost,127.0.0.1,*.hpe.com,*.hpecorp.net,*.hp.com,*.hpqcorp.net,*.cpqcorp.net
+
 RUN echo "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc) main universe" > /etc/apt/sources.list
 RUN echo "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc)-updates main universe" >> /etc/apt/sources.list
 RUN apt-get update
