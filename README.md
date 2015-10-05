@@ -5,13 +5,13 @@ Presentation to teach Vim in a fast way.
 Build:
 
 ```sh
-$ docker build -t vim-slidesshow .
+$ docker build -t learn-vim-steps .
 ```
 
 Run:
 
 ```sh
-$ docker run --rm -v "$(pwd)/md:/revealjs/md" -p 8001:8000 vim-slidesshow
+$ docker run --rm -v "$(pwd)/md:/revealjs/md" -p 8001:8000 learn-vim-steps
 ```
 
 Presentation made with https://github.com/hakimel/reveal.js.
