@@ -22,7 +22,7 @@ ADD index.html /revealjs/
 ADD custom.css /revealjs/css/
 ADD fonts /revealjs/fonts
 # ADD plugin/title.js /revealjs/plugin/
-ADD plugin/title-footer /revealjs/plugin/title-footer
+# ADD plugin/title-footer /revealjs/plugin/title-footer
 
 EXPOSE 8000
 
