@@ -1,6 +1,6 @@
 # Learn Vim: Step by Step
 
-## Put Subtitle Here
+## Teach yourself Vim
 
 ### Javier Tiá / October 13, 2015
 
