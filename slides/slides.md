@@ -66,3 +66,14 @@ You now know how to switch between Insert and Normal mode.
 - **yy** → copy the current line, easier but equivalent to **ddP**
 - **u** → undo
 - **&lt;Ctrl-r&gt;** → redo
+
+---
+
+## Load/Save/Quit/Change File
+
+- **:e** <path/to/file> → open
+- **:w** → save
+- **:saveas** <path/to/file> → save to <path/to/file>
+- **:wq** → save and quit
+- **:q!** → quit without saving, also **:qa!** to quit even if there are modified hidden buffers
+- **:bn** (resp. **:bp**) → show next (resp. previous) file (buffer)
