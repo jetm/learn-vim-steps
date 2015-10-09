@@ -57,3 +57,12 @@ You now know how to switch between Insert and Normal mode.
 - **$** → go to the end of line
 - **g\_** → go to the last non-blank character of line
 - **/pattern** → search for pattern
+
+---
+
+## Copy/Paste and Undo/Redo
+
+- **P** → paste before, remember **p** is paste after current position
+- **yy** → copy the current line, easier but equivalent to **ddP**
+- **u** → undo
+- **&lt;Ctrl-r&gt;** → redo
