@@ -30,4 +30,7 @@ You now know how to switch between Insert and Normal mode.
 
 --
 
-## Hello World!
+## Cursor move
+
+- **hjkl** (highly recommended but not mandatory), basic cursor move (**← ↓ ↑ →**). Hint: **j** looks like a down arrow
+- **:help <command>** → Show help about <command>. You can use **:help** without a <command> to get general help
