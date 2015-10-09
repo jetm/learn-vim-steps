@@ -38,3 +38,12 @@ You now know how to switch between Insert and Normal mode.
 ---
 
 # Level 2: Feel comfortable
+
+---
+
+## Insert mode variations
+
+- **a** → insert after the cursor
+- **o** → insert a new line after the current one
+- **O** → insert a new line before the current one
+- **cw** → replace from the cursor to the end of the word
