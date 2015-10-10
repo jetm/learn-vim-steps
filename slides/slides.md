@@ -77,3 +77,7 @@ You now know how to switch between Insert and Normal mode.
 - **:wq** → save and quit
 - **:q!** → quit without saving, also **:qa!** to quit even if there are modified hidden buffers
 - **:bn** (resp. **:bp**) → show next (resp. previous) file (buffer)
+
+---
+
+# 3rd Level – Better & Stronger & Faster
