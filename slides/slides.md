@@ -12,11 +12,11 @@
 
 ## Only five commands
 
-- **i** → Insert mode. Type ESC to return to Normal mode
-- **x** → Delete the char under the cursor
-- **:wq** → Save and Quit (:w save, :q quit)
-- **dd** → Delete (and copy) the current line
-- **p** → Paste
+- **`i`** → Insert mode. Type ESC to return to Normal mode
+- **`x`** → Delete the char under the cursor
+- **`:wq`** → Save and Quit (**`:w save`**, **`:q`** quit)
+- **`dd`** → Delete (and copy) the current line
+- **`p`** → Paste
 
 Note:
 
@@ -32,8 +32,8 @@ You now know how to switch between Insert and Normal mode.
 
 ## Cursor move
 
-- **hjkl** (highly recommended but not mandatory), basic cursor move (**← ↓ ↑ →**). Hint: **j** looks like a down arrow
-- **:help <command>** → Show help about <command>. You can use **:help** without a <command> to get general help
+- **`hjkl`** (highly recommended but not mandatory), basic cursor move (**`← ↓ ↑ →`**). Hint: **`j`** looks like a down arrow
+- **`:help <command>`** → Show help about <command>. You can use **`:help`** without a <command> to get general help
 
 ---
 
@@ -43,40 +43,40 @@ You now know how to switch between Insert and Normal mode.
 
 ## Insert mode variations
 
-- **a** → insert after the cursor
-- **o** → insert a new line after the current one
-- **O** → insert a new line before the current one
-- **cw** → replace from the cursor to the end of the word
+- **`a`** → insert after the cursor
+- **`o`** → insert a new line after the current one
+- **`O`** → insert a new line before the current one
+- **`cw`** → replace from the cursor to the end of the word
 
 ---
 
 ## Basic moves
 
-- **0** → go to the first column
-- **^** → go to the first non-blank character of the line
-- **$** → go to the end of line
-- **g\_** → go to the last non-blank character of line
-- **/pattern** → search for pattern
+- **`0`** → go to the first column
+- **`^`** → go to the first non-blank character of the line
+- **`$`** → go to the end of line
+- **`g\_`** → go to the last non-blank character of line
+- **`/pattern`** → search for pattern
 
 ---
 
 ## Copy/Paste and Undo/Redo
 
-- **P** → paste before, remember **p** is paste after current position
-- **yy** → copy the current line, easier but equivalent to **ddP**
-- **u** → undo
-- **&lt;Ctrl-r&gt;** → redo
+- **`P`** → paste before, remember **`p`** is paste after current position
+- **`yy`** → copy the current line, easier but equivalent to **`ddP`**
+- **`u`** → undo
+- **`<Ctrl-r>`** → redo
 
 ---
 
 ## Load/Save/Quit/Change File
 
-- **:e** <path/to/file> → open
-- **:w** → save
-- **:saveas** <path/to/file> → save to <path/to/file>
-- **:wq** → save and quit
-- **:q!** → quit without saving, also **:qa!** to quit even if there are modified hidden buffers
-- **:bn** (resp. **:bp**) → show next (resp. previous) file (buffer)
+- **`:e`** <path/to/file> → open
+- **`:w`** → save
+- **`:saveas`** <path/to/file> → save to <path/to/file>
+- **`:wq`** → save and quit
+- **`:q!`** → quit without saving, also **`:qa!`** to quit even if there are modified hidden buffers
+- **`:bn`** (resp. **`:bp`**) → show next (resp. previous) file (buffer)
 
 ---
 
