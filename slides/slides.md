@@ -96,3 +96,11 @@ You now know how to switch between Insert and Normal mode.
 - **`2dd`** → will delete 2 lines
 - **`3p`** → will paste the text 3 times
 - **`5idesu [ESC]`** → will write "desu desu desu desu desu"
+
+---
+
+## Stronger
+
+- _N_**`G`** → go to line _N_
+- **`gg`** → shortcut for **`1G`** - go to the start of the file
+- **`G`** → go to last line
