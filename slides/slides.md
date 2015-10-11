@@ -88,3 +88,11 @@ You now know how to switch between Insert and Normal mode.
 
 - **`.`** → will repeat the last command
 - _N_**`<command>`** → will repeat the command _N_ times
+
+--
+
+### Better example
+
+- **`2dd`** → will delete 2 lines
+- **`3p`** → will paste the text 3 times
+- **`5idesu [ESC]`** → will write "desu desu desu desu desu"
