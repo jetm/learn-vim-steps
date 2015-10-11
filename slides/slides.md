@@ -81,3 +81,10 @@ You now know how to switch between Insert and Normal mode.
 ---
 
 # 3rd Level – Better & Stronger & Faster
+
+---
+
+## Better
+
+- **`.`** → will repeat the last command
+- _N_**`<command>`** → will repeat the command _N_ times
