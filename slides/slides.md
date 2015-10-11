@@ -8,7 +8,7 @@
 
 ---
 
-# Level 1: Survive
+# Level 1 - Survive
 
 ---
 
@@ -39,7 +39,7 @@ You now know how to switch between Insert and Normal mode.
 
 ---
 
-# Level 2: Feel comfortable
+# Level 2 - Feel comfortable
 
 ---
 
