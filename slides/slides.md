@@ -106,3 +106,19 @@ You now know how to switch between Insert and Normal mode.
 - _N_**`G`** → go to line _N_
 - **`gg`** → shortcut for **`1G`** - go to the start of the file
 - **`G`** → go to last line
+
+--
+
+## Stronger - Word moves
+
+- **`w`** → go to the start of the following word
+- **`e`** → go to the end of this word
+
+- **`W`** → go to the start of the following WORD
+- **`E`** → go to the end of this WORD
+
+Note:
+
+By default, words are composed of letters and the underscore character. Let's
+call a WORD a group of letter separated by blank characters. If you want to
+consider WORDS, then just use uppercase characters.
