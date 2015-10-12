@@ -155,3 +155,11 @@ y2/foo yank up to the second occurrence of "foo".
 
 But what was true for y (yank), is also true for d (delete), v (visual select),
 gU (uppercase), gu (lowercase), etc...
+
+--
+
+## Insert image here
+
+---
+
+# 4th Level – Vim Superpowers
