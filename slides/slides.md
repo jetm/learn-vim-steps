@@ -122,3 +122,16 @@ Note:
 By default, words are composed of letters and the underscore character. Let's
 call a WORD a group of letter separated by blank characters. If you want to
 consider WORDS, then just use uppercase characters.
+
+--
+
+## Stronger - More efficient moves
+
+- **`%`** → go to the corresponding _(_, _{_, _[_ characters
+- **`*`** → go to next occurrence of the word under the cursor
+- **`#`** → go to previous ccurrence of the word under the cursor
+- **`n`** and **`p`** → same as **`*`** and **`#`**
+
+Note:
+
+These commands are gold
