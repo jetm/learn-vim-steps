@@ -177,3 +177,30 @@ gU (uppercase), gu (lowercase), etc...
 - **`t,`** → go to just before the character _,_
 - **`3fa`** → find the 3rd occurrence of _a_ on this line
 - **`F`** and **`T`** → like **`f`** and **`t`** but backward
+
+--
+
+## Insert image here
+
+---
+
+## Zone selection
+
+**`<action>a<object>`** and **`<action>i<object>`**
+
+Suppose the cursor is on the first _o_ of _(map (+) ("foo"))_
+
+- **`vi"`** → will select _foo_
+- **`va"`** → will select _"foo"_
+- **`vi)`** → will select _"foo"_
+- **`va)`** → will select _("foo")_
+- **`v2i)`** → will select _map (+) ("foo") _
+- **`v2a)`** → will select _(map (+) ("foo"))_
+
+Note:
+
+These command can only be used after an operator in visual mod
+
+Where action can be any action, for example, d (delete), y (yank), v (select in
+visual mode). The object can be: w a word, W a WORD (extended word), s a
+sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
