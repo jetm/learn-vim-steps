@@ -229,3 +229,18 @@ sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
 Note:
 
 _a_ just an register example. You could be use since _a_ to _z_
+
+--
+
+## A macro to count until 10
+
+**`qaYp<C-a>q`**
+
+- **`qa`** start recording.
+- **`Yp`** duplicate this line.
+- **`<C-a>`** increment the number.
+- **`q`** stop recording.
+- **`@a`** → write 2 under the 1
+- **`@@`** → write 3 under the 2
+
+- **`10@@`** will create a list of increasing numbers until 13
