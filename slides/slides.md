@@ -254,3 +254,9 @@ _a_ just an register example. You could be use since _a_ to _z_
 - **`J`** → join all the lines together
 - **`<`** and **`>`** → indent to the left and right
 - **`=`** → auto indent
+
+---
+
+# Level 5th - Vim as IDE
+
+## Featured plugins
