@@ -204,3 +204,16 @@ These command can only be used after an operator in visual mod
 Where action can be any action, for example, d (delete), y (yank), v (select in
 visual mode). The object can be: w a word, W a WORD (extended word), s a
 sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
+
+--
+
+## Insert image here
+
+---
+
+## Select rectangular blocks
+
+- **`^`** → go to the first non-blank character of the line
+- **`<Ctrl-v>`** → Start block selection
+- **`<Ctrl-d>`** → move down; could also be **`jjj`** or **`%`** or ...
+- **`I--`** and [ESC] → write _--_ to comment each line
