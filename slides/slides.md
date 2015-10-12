@@ -135,3 +135,23 @@ consider WORDS, then just use uppercase characters.
 Note:
 
 These commands are gold
+
+---
+
+## Faster
+
+**`<start position><command><end position>`**
+
+**`0y$`** means:
+
+- **`0`** → go to the beginning of this line
+- **`y`** → yank from here
+- **`$`** → up to the end of this line
+
+Note:
+
+We also can do things like ye, yank from here to the end of the word. But also
+y2/foo yank up to the second occurrence of "foo".
+
+But what was true for y (yank), is also true for d (delete), v (visual select),
+gU (uppercase), gu (lowercase), etc...
