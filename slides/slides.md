@@ -217,3 +217,15 @@ sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
 - **`<Ctrl-v>`** → Start block selection
 - **`<Ctrl-d>`** → move down; could also be **`jjj`** or **`%`** or ...
 - **`I--`** and [ESC] → write _--_ to comment each line
+
+---
+
+## Macros
+
+- **`qa`** record your actions in the register _a_
+- **`@a`** will replay the macro saved into the register _a_ as if you typed it
+- **`@@`** is a shortcut to replay the last executed macro
+
+Note:
+
+_a_ just an register example. You could be use since _a_ to _z_
