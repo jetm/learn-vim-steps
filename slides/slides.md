@@ -305,3 +305,12 @@ $ alias update-spf13-vim="( \
     && git pull \
     && vim +BundleInstall! +BundleClean +q )"
 ```
+
+---
+
+## Vundle - A Plugin Manager
+
+- spf13-vim uses the Vundle plugin management system to have a well organized
+  vim directory
+- It ensures that the latest versions of your plugins are installed
+- It make easy to keep the plugins up to date
