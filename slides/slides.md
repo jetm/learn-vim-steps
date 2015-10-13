@@ -365,3 +365,10 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 - If syntax errors are detected, the user is notified
 - No need to compile the code to find error
 - **`:help syntastic`** → for more details
+
+---
+
+## Numbers - Better Line Numbers
+
+- It alternate between relative numbering and absolute numbering
+- It allows you to easily move code around
