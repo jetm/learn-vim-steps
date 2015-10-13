@@ -372,3 +372,13 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 - It alternate between relative numbering and absolute numbering
 - It allows you to easily move code around
+
+---
+
+## YouCompleteMe - A Code-Completion Engine
+
+- A fast, as-you-type, fuzzy-search code completion engine for Vim
+- An identifier-based engine that works with every programming language
+- A Clang-based engine that provides native semantic code completion for
+  The C-family languages
+- Integrated with UltiSnips: a snippet solution for Vim
