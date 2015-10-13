@@ -260,3 +260,29 @@ _a_ just an register example. You could be use since _a_ to _z_
 # Level 5th - Vim as IDE
 
 ## Featured plugins
+
+---
+
+## spf13-vim Install and Update
+
+- It has an excellent configuration
+- `.vimrc` file is suited for programming
+- It fixes many of the inconveniences of vanilla Vim config
+- For personal customizations use: `~/.vimrc.local` and `~/.vimrc.bundles.local`
+  (additonal plugins)
+
+Note:
+
+- Vim is a text editor, but with plugins you can convert it to an
+  IDE
+- spf13-vim has a Vim Plugin Manager and good default selection of plugins
+- Eliminates swap and backup files from littering directories, preferring to
+  store in a central location
+- Fixes common typos like :W, :Q, etc
+- Setup a solid set of settings for Formatting (change to meet your needs)
+- Setup the interface to take advantage of vim's features including:
+    omnicomplete
+    line numbers
+    syntax highlighting
+    A better ruler & status line
+    & more
