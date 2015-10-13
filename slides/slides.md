@@ -345,3 +345,13 @@ Old text | Command | New text
 "Look ma, I'm *HTML!" | cs"<q> | <q>Look ma, I'm HTML!</q>
 if *x>3 { | ysW( | if ( x>3 ) {
 my $str = *whee!; | vllllS' | my $str = 'whee!';
+
+---
+
+## NERDCommenter - Comment++
+
+- Allow to comment code regardless of filetype
+- _N_**`<Leader>cc`** → comment out the current line or _N_ text selected in
+  visual mode
+- _N_**`<Leader>cu`** → uncomments the selected _N_ line(s)
+- **`:help NERDCommenter`** → for more details
