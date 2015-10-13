@@ -327,3 +327,21 @@ $ alias update-spf13-vim="( \
 ## Ctrlp - Fast File Finder
 
 - It provides an intuitive and fast mechanism to load files (with regex and fuzzy find)
+
+---
+
+## Surround - Managing All the ''""[]{}
+
+- A plugin for dealing with pairs of "surroundings": single/double quotes,
+  parentheses, etc...
+- Closely related to Vim text-objects
+
+----
+
+Old text | Command | New text
+:--|:--|:--
+"Hello *world!" | ds" |         Hello world!
+[123+4*56]/2 | cs]) | (123+456)/2
+"Look ma, I'm *HTML!" | cs"<q> | <q>Look ma, I'm HTML!</q>
+if *x>3 { | ysW( | if ( x>3 ) {
+my $str = *whee!; | vllllS' | my $str = 'whee!';
