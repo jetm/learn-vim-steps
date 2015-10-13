@@ -321,3 +321,9 @@ $ alias update-spf13-vim="( \
 
 - NERDTree is a file explorer plugin
 - **`<Leader>e`** → quickStart launch
+
+---
+
+## Ctrlp - Fast File Finder
+
+- It provides an intuitive and fast mechanism to load files (with regex and fuzzy find)
