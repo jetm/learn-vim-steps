@@ -286,3 +286,22 @@ Note:
     syntax highlighting
     A better ruler & status line
     & more
+
+---
+
+## spf13-vim Install and Update
+
+Install
+
+```sh
+$ curl http://j.mp/spf13-vim3 -L -o - | sh
+```
+
+Update
+
+```sh
+$ alias update-spf13-vim="( \
+    cd $HOME/.spf13-vim-3 \
+    && git pull \
+    && vim +BundleInstall! +BundleClean +q )"
+```
