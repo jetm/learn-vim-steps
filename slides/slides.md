@@ -355,3 +355,13 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
   visual mode
 - _N_**`<Leader>cu`** → uncomments the selected _N_ line(s)
 - **`:help NERDCommenter`** → for more details
+
+---
+
+## Syntastic - Integrated Syntax Checking
+
+- Plugin to check syntax with external syntax checkers as the files are saved
+  or/and opened
+- If syntax errors are detected, the user is notified
+- No need to compile the code to find error
+- **`:help syntastic`** → for more details
