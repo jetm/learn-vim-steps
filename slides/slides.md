@@ -263,7 +263,7 @@ _a_ just an register example. You could be use since _a_ to _z_
 
 ---
 
-## spf13-vim Install and Update
+## spf13-vim - A Vim Distribution
 
 - It has an excellent configuration
 - `.vimrc` file is suited for programming
