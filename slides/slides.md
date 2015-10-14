@@ -107,13 +107,12 @@ You now know how to switch between Insert and Normal mode.
 - **`gg`** → shortcut for **`1G`** - go to the start of the file
 - **`G`** → go to last line
 
---
+---
 
 ## Stronger - Word moves
 
 - **`w`** → go to the start of the following word
 - **`e`** → go to the end of this word
-
 - **`W`** → go to the start of the following WORD
 - **`E`** → go to the end of this WORD
 
@@ -155,10 +154,6 @@ y2/foo yank up to the second occurrence of "foo".
 
 But what was true for y (yank), is also true for d (delete), v (visual select),
 gU (uppercase), gu (lowercase), etc...
-
---
-
-## Insert image here
 
 ---
 
