@@ -414,3 +414,17 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 - Practice and practice. Use `vimtutor` and `:help usr_02.txt`
 - Vim has an excellent documentation
 - As as programmer handle text is important. Vim is a powerful tool for it
+
+---
+
+## References
+
+* This presentation: https://github.com/jetm/learn-vim-steps/ or [pdf file](https://github.com/jetm/learn-vim-steps/raw/master/learn-vim-steps.pdf).
+
+* Presentation made with: http://lab.hakim.se/reveal-js/
+
+* Presentation based in http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+
+* My [.vimrc.local file](https://github.com/jetm/dotfiles/blob/master/.vimrc.local)
+
+* My [.vimrc.bundles.local file](https://github.com/jetm/dotfiles/blob/master/.vimrc.bundles.local)
