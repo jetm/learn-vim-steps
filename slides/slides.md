@@ -382,3 +382,15 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 - A Clang-based engine that provides native semantic code completion for
   The C-family languages
 - Integrated with UltiSnips: a snippet solution for Vim
+
+---
+
+## Tagbar - Tag Generation and Navigation
+
+- It provides a panel to navigate easily via tags
+- It requires exuberant-ctags and will automatically generate tags for your
+  open files
+- **`<Ctrl-]>`** → while cursor is on keyword, such as function name, to jump
+  to its definition
+- **`<Ctrl-T>`** → jump back up to origin
+- **`<Leader>tt`** → to toggle the tagbar panel
