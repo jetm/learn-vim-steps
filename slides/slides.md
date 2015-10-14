@@ -394,3 +394,12 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
   to its definition
 - **`<Ctrl-T>`** → jump back up to origin
 - **`<Leader>tt`** → to toggle the tagbar panel
+
+---
+
+## EasyMotion - Jump Anywhere
+
+- It provides an interactive way to use motions in Vim
+- It quickly maps each possible jump destination to a key allowing very fast
+  and straightforward movement
+- **`<Leader><Leader>w`** → quickstart EasyMotion
