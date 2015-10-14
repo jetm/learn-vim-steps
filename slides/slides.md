@@ -179,6 +179,7 @@ gU (uppercase), gu (lowercase), etc...
 
 ---
 
+<!-- .slide: class="two-floating-elements" -->
 ## Zone selection
 
 **`<action>a<object>`** and **`<action>i<object>`**
@@ -191,6 +192,8 @@ Suppose the cursor is on the first _o_ of _(map (+) ("foo"))_
 - **`va)`** → will select _("foo")_
 - **`v2i)`** → will select _map (+) ("foo") _
 - **`v2a)`** → will select _(map (+) ("foo"))_
+
+<!-- ![](images/textobjects.jpg) -->
 
 Note:
 
