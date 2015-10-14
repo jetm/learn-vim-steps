@@ -434,3 +434,7 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 ## Contact information
 
 * javier.tia@gmail.com / javier.tia@hpe.com
+
+---
+
+# Questions?
