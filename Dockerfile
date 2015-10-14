@@ -21,6 +21,7 @@ RUN sed -i Gruntfile.js -e 's/port: port,/port: port, hostname: "",/'
 ADD index.html /revealjs/
 ADD custom.css /revealjs/css/
 ADD fonts /revealjs/fonts
+ADD images /revealjs/images
 # ADD plugin/title.js /revealjs/plugin/
 # ADD plugin/title-footer /revealjs/plugin/title-footer
 
