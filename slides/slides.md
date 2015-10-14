@@ -175,9 +175,7 @@ gU (uppercase), gu (lowercase), etc...
 - **`3fa`** → find the 3rd occurrence of _a_ on this line
 - **`F`** and **`T`** → like **`f`** and **`t`** but backward
 
---
-
-## Insert image here
+![](images/line_moves.jpg)
 
 ---
 
