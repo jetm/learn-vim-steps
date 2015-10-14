@@ -116,6 +116,8 @@ You now know how to switch between Insert and Normal mode.
 - **`W`** → go to the start of the following WORD
 - **`E`** → go to the end of this WORD
 
+![](images/words_moves.jpg)
+
 Note:
 
 By default, words are composed of letters and the underscore character. Let's
