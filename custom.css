@@ -29,3 +29,21 @@
 .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
   text-transform: none;
 }
+
+/* @TODO: test it to put image aside of items */
+/*
+.two-floating-elements {
+  > ul ~ p,
+  > p ~ ul {
+    max-width: 50%;
+    float:left;
+    font-size: 0.7em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  > p ~ ul {
+    margin-left: 0;
+  }
+}
+*/
