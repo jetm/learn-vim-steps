@@ -428,3 +428,9 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 * My [.vimrc.local file](https://github.com/jetm/dotfiles/blob/master/.vimrc.local)
 
 * My [.vimrc.bundles.local file](https://github.com/jetm/dotfiles/blob/master/.vimrc.bundles.local)
+
+--
+
+## Contact information
+
+* javier.tia@gmail.com / javier.tia@hpe.com
