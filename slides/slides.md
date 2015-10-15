@@ -216,9 +216,9 @@ sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
 
 ## Macros
 
-- **`qa`** record your actions in the register **`a`**
-- **`@a`** will replay the macro saved into the register **`a`** as if you typed it
-- **`@@`** is a shortcut to replay the last executed macro
+- **`qa`** → record your actions in the register **`a`**
+- **`@a`** → will replay the macro saved into the register **`a`** as if you typed it
+- **`@@`** → is a shortcut to replay the last executed macro
 
 Note:
 
@@ -230,14 +230,14 @@ _a_ just an register example. You could be use since _a_ to _z_
 
 **`qaYp<C-a>q`**
 
-- **`qa`** start recording
-- **`Yp`** duplicate this line
-- **`<C-a>`** increment the number
-- **`q`** stop recording
+- **`qa`** → start recording
+- **`Yp`** → duplicate this line
+- **`<C-a>`** → increment the number
+- **`q`** → stop recording
 - **`@a`** → write 2 under the 1
 - **`@@`** → write 3 under the 2
 
-- **`10@@`** will create a list of increasing numbers until 13
+- **`10@@`** → will create a list of increasing numbers until 13
 
 ---
 
