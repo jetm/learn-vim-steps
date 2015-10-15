@@ -379,7 +379,7 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 - An identifier-based engine that works with every programming language
 - A Clang-based engine that provides native semantic code completion for
   The C-family languages
-- Integrated with UltiSnips: a snippet solution for Vim
+- Integrated with UltiSnips (A snippet solution for Vim)
 
 ---
 
