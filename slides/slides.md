@@ -165,14 +165,14 @@ gU (uppercase), gu (lowercase), etc...
 
 ## Move on current line
 
-- **`0`** → go to column _0_
+- **`0`** → go to column **`0`**
 - **`^`** → go to first character on the line
 - **`$`** → go to the last column
 - **`g_`** → go to the last character on the line
-- **`fa`** → go to next occurrence of the letter _a_ on the line
+- **`fa`** → go to next occurrence of the letter **`a`** on the line
 - **`;`** → will find the next occurrence
-- **`t,`** → go to just before the character _,_
-- **`3fa`** → find the 3rd occurrence of _a_ on this line
+- **`t,`** → go to just before the character **`,`**
+- **`3fa`** → find the 3rd occurrence of **`,`** on this line
 - **`F`** and **`T`** → like **`f`** and **`t`** but backward
 
 ![](images/line_moves.jpg)
