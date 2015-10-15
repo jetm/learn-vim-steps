@@ -230,10 +230,10 @@ _a_ just an register example. You could be use since _a_ to _z_
 
 **`qaYp<C-a>q`**
 
-- **`qa`** start recording.
-- **`Yp`** duplicate this line.
-- **`<C-a>`** increment the number.
-- **`q`** stop recording.
+- **`qa`** start recording
+- **`Yp`** duplicate this line
+- **`<C-a>`** increment the number
+- **`q`** stop recording
 - **`@a`** → write 2 under the 1
 - **`@@`** → write 3 under the 2
 
