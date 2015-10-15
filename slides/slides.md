@@ -236,7 +236,6 @@ _a_ just an register example. You could be use since _a_ to _z_
 - **`q`** → stop recording
 - **`@a`** → write 2 under the 1
 - **`@@`** → write 3 under the 2
-
 - **`10@@`** → will create a list of increasing numbers until 13
 
 ---
