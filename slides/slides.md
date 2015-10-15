@@ -254,6 +254,11 @@ _a_ just an register example. You could be use since _a_ to _z_
 
 ## Featured plugins
 
+Note:
+
+Remember, Vim is not an IDE, just an text editor. Plugins come to simulate
+that and still feel short.
+
 ---
 
 ## spf13-vim - A Vim Distribution
