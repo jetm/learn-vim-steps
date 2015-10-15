@@ -226,7 +226,7 @@ _a_ just an register example. You could be use since _a_ to _z_
 
 --
 
-## A macro to count until 10
+## A Macro to Count Until 10
 
 **`qaYp<C-a>q`**
 
