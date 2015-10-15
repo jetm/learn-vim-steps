@@ -57,7 +57,7 @@ You now know how to switch between Insert and Normal mode.
 - **`0`** → go to the first column
 - **`^`** → go to the first non-blank character of the line
 - **`$`** → go to the end of line
-- **`g\_`** → go to the last non-blank character of line
+- **`g_`** → go to the last non-blank character of line
 - **`/pattern`** → search for pattern
 
 ---
