@@ -318,7 +318,7 @@ $ alias update-spf13-vim="( \
 ## NERDTree - File Navigation Plugin
 
 - NERDTree is a file explorer plugin
-- **`<Leader>e`** → quickStart launch
+- **`<Leader>e`** → quickstart launch
 
 ---
 
