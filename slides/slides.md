@@ -210,14 +210,14 @@ sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
 - **`^`** → go to the first non-blank character of the line
 - **`<Ctrl-v>`** → Start block selection
 - **`<Ctrl-d>`** → move down; could also be **`jjj`** or **`%`** or ...
-- **`I--`** and [ESC] → write _--_ to comment each line
+- **`I--`** and [ESC] → write **`--`** to comment each line
 
 ---
 
 ## Macros
 
-- **`qa`** record your actions in the register _a_
-- **`@a`** will replay the macro saved into the register _a_ as if you typed it
+- **`qa`** record your actions in the register **`a`**
+- **`@a`** will replay the macro saved into the register **`a`** as if you typed it
 - **`@@`** is a shortcut to replay the last executed macro
 
 Note:
