@@ -1,6 +1,6 @@
 # Learn Vim Steps by Steps
 
-Presentation to teach Vim in a fast way.
+[Presentation in PDF format](https://github.com/jetm/learn-vim-steps/raw/master/learn-vim-steps.pdf)
 
 Build:
 
