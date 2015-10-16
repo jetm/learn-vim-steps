@@ -429,11 +429,11 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 * My [.vimrc.bundles.local file](https://github.com/jetm/dotfiles/blob/master/.vimrc.bundles.local)
 
+* javier.tia@gmail.com / javier.tia@hpe.com
 --
 
 ## References and Links - 2nd Part
 
-* javier.tia@gmail.com / javier.tia@hpe.com
 
 ---
 
