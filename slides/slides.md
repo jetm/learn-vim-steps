@@ -434,6 +434,7 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 * Presentation based in http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 
+* Learning Vim script the hard way: http://learnvimscriptthehardway.stevelosh.com/
 ---
 
 # Questions?
