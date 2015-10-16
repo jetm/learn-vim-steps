@@ -415,11 +415,13 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 ---
 
-## References
+## References and Links
 
 * This presentation: https://github.com/jetm/learn-vim-steps/ or [pdf file](https://github.com/jetm/learn-vim-steps/raw/master/learn-vim-steps.pdf).
 
 * Presentation made with: http://lab.hakim.se/reveal-js/
+
+* Vim Distribution: http://vim.spf13.com/
 
 * Presentation based in http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 
@@ -429,7 +431,7 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 --
 
-## Contact information
+## References and Links - 2nd Part
 
 * javier.tia@gmail.com / javier.tia@hpe.com
 
