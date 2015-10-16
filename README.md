@@ -2,6 +2,9 @@
 
 [Presentation in PDF format](https://github.com/jetm/learn-vim-steps/raw/master/learn-vim-steps.pdf)
 
+To see it as [reveal.js](https://github.com/hakimel/reveal.js) presentation,
+follow these steps:
+
 Build:
 
 ```sh
