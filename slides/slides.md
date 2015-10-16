@@ -12,7 +12,7 @@
 
 ---
 
-## Only five commands
+## Only Five Commands
 
 - **`i`** → Insert mode. Type ESC to return to Normal mode
 - **`x`** → Delete the char under the cursor
@@ -32,7 +32,7 @@ You now know how to switch between Insert and Normal mode.
 
 --
 
-## Cursor move
+## Cursor Move
 
 - **`hjkl`** (highly recommended but not mandatory), basic cursor move (**`← ↓ ↑ →`**). Hint: **`j`** looks like a down arrow
 - **`:help <command>`** → Show help about <command>. You can use **`:help`** without a <command> to get general help
@@ -43,7 +43,7 @@ You now know how to switch between Insert and Normal mode.
 
 ---
 
-## Insert mode variations
+## Insert Mode Variations
 
 - **`a`** → insert after the cursor
 - **`o`** → insert a new line after the current one
@@ -52,7 +52,7 @@ You now know how to switch between Insert and Normal mode.
 
 ---
 
-## Basic moves
+## Basic Moves
 
 - **`0`** → go to the first column
 - **`^`** → go to the first non-blank character of the line
@@ -93,7 +93,7 @@ You now know how to switch between Insert and Normal mode.
 
 --
 
-### Better example
+### Better - Example
 
 - **`2dd`** → will delete 2 lines
 - **`3p`** → will paste the text 3 times
@@ -109,7 +109,7 @@ You now know how to switch between Insert and Normal mode.
 
 ---
 
-## Stronger - Word moves
+## Stronger - Word Moves
 
 - **`w`** → go to the start of the following word
 - **`e`** → go to the end of this word
@@ -126,7 +126,7 @@ consider WORDS, then just use uppercase characters.
 
 --
 
-## Stronger - More efficient moves
+## Stronger - More Efficient Moves
 
 - **`%`** → go to the corresponding _(_, _{_, _[_ characters
 - **`*`** → go to next occurrence of the word under the cursor
@@ -163,7 +163,7 @@ gU (uppercase), gu (lowercase), etc...
 
 ---
 
-## Move on current line
+## Move on Current Line
 
 - **`0`** → go to column **`0`**
 - **`^`** → go to first character on the line
@@ -180,7 +180,7 @@ gU (uppercase), gu (lowercase), etc...
 ---
 
 <!-- .slide: class="two-floating-elements" -->
-## Zone selection
+## Object Selection
 
 **`<action>a<object>`** and **`<action>i<object>`**
 
@@ -205,7 +205,7 @@ sentence, p a paragraph. But also, natural character such as ", ', ), }, ].
 
 ---
 
-## Select rectangular blocks
+## Select Rectangular Blocks
 
 - **`^`** → go to the first non-blank character of the line
 - **`<Ctrl-v>`** → Start block selection
