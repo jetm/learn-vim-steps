@@ -82,6 +82,16 @@ You now know how to switch between Insert and Normal mode.
 
 ---
 
+## Visual selection and indentation
+
+- **`v`** → select character by character
+- **`V`** → select a whole line
+- **`J`** → join all the lines together
+- **`<`** and **`>`** → indent to the left and right
+- **`=`** → auto indent
+
+---
+
 ## Load/Save/Quit/Change File
 
 - **`:e`** <path/to/file> → open
@@ -249,15 +259,6 @@ _a_ just an register example. You could be use since _a_ to _z_
 - **`@@`** → write 3 under the 2
 - **`10@@`** → will create a list of increasing numbers until 13
 
----
-
-## Visual selection
-
-- **`v`** → select character by character
-- **`V`** → select a whole line
-- **`J`** → join all the lines together
-- **`<`** and **`>`** → indent to the left and right
-- **`=`** → auto indent
 
 ---
 
