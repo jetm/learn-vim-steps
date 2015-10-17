@@ -152,7 +152,7 @@ consider WORDS, then just use uppercase characters.
 - **`%`** → go to the corresponding _(_, _{_, _[_ characters
 - **`*`** → go to next occurrence of the word under the cursor
 - **`#`** → go to previous ccurrence of the word under the cursor
-- **`n`** and **`p`** → same as **`*`** and **`#`**
+- **`n`** and **`N`** → same as **`*`** and **`#`**
 
 Note:
 
