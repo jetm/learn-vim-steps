@@ -8,6 +8,17 @@
 
 ---
 
+## Why Vim
+
+- If you're a programmer who edits a lot of text, then it's important to learn
+  an serious text editor like Vim
+- Vim allows you to easily code without taking your hands off the keyboard. No mouse
+- It helps you focus on the coding process itself
+- Vim has and excellent documentation
+- Vim has a good community
+
+---
+
 # Level 1 - Survive
 
 ---
