@@ -415,6 +415,13 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 ---
 
+## Vim-Git - Vim runtime files
+
+- It provides syntax, indent, and other configurations for gitcommit,
+  gitconfig, gitrebase and gitsendemail files
+
+---
+
 ## Some final words
 
 - Learn no more than one or two new commands per day
