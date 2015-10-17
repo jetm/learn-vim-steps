@@ -455,6 +455,8 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 
 * Vim Tips and Trick: https://www.cs.swarthmore.edu/help/vim/home.html
 
+* Vim Cheat Sheet for Programmers: http://michael.peopleofhonoronly.com/vim/
+
 ---
 
 # Questions?
