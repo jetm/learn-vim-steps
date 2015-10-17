@@ -427,9 +427,8 @@ my $str = *whee!; | vllllS' | my $str = 'whee!';
 - Learn no more than one or two new commands per day
 - You can see progress after two to three weeks
 - The learning curve is steep, but the reward is high
-- Practice and practice. Use `vimtutor` and `:help usr_02.txt`
-- Vim has an excellent documentation
-- As as programmer handle text is important. Vim is a powerful tool for it
+- Vim has an excellent documentation, try `:help usr_02.txt`
+- Practice and practice. Use `vimtutor`
 
 ---
 
