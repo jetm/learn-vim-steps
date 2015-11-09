@@ -9,11 +9,6 @@ Build:
 
 ```sh
 $ docker build -t learn-vim-steps .
-```
-
-Run:
-
-```sh
 $ docker run --rm -v "$(pwd)/slides/:/revealjs/slides/" -p 8001:8000 learn-vim-steps
 ```
 
