@@ -14,7 +14,7 @@ $ docker run --rm -v "$(pwd)/slides/:/revealjs/slides/" -p 8001:8000 learn-vim-s
 
 To see presentation:
 
-Open http://localhost:8001/ in a browser.
+Open [http://localhost:8001/](http://localhost:8001/) in a browser.
 
 Presentation made with https://github.com/hakimel/reveal.js.
 
