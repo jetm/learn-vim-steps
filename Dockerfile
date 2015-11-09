@@ -8,7 +8,7 @@ RUN apt-get update
 
 RUN apt-get -y -q install wget libfreetype6 nodejs npm nodejs-legacy
 
-RUN wget -O revealjs.tar.gz https://github.com/hakimel/reveal.js/archive/3.1.0.tar.gz
+RUN wget -O revealjs.tar.gz https://github.com/hakimel/reveal.js/archive/3.2.0.tar.gz
 RUN mkdir revealjs && tar xzf revealjs.tar.gz --strip-components=1 -C revealjs/
 
 WORKDIR /revealjs
